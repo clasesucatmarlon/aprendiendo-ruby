@@ -9,4 +9,5 @@ nombre = 'Marlon García'
 puts 'Hola ' + nombre
 
 resultado = numero1 / numero2
-puts 'resultado de la suma es: ', resultado
+# string interpolation
+puts "resultado de la suma es: #{resultado}"
